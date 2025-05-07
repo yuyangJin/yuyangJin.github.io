@@ -57,7 +57,7 @@ I am awarded with CCF ARCH Doctoral Outstanding Dissertation Award (CCF体系结
 - **2024.11**: Our paper (FlashTensor) was accepted to **PPoPP'25**, congratulations to Runxin. 🎉
 - **2024.10**: Our paper (ScalAna 2.0) was accepted to **IEEE TPDS**, congratulations to myself. 🎉
 - **2024.09**: Our paper (MCPruner) was accepted to **IEEE TPDS**, congratulations to myself. 🎉
-- **2024.06**: Our paper was accepted to **ICPP'24**, congratulations to Haopeng. 🎉
+- **2024.06**: Our paper (BoostN) was accepted to **ICPP'24**, congratulations to Haopeng. 🎉
 - **2024.05**: Tsinghua Studennt Cluster Team won the **Overall Champion of ISC'24 SCC competition**, congratulations! 🎉
 - **2024.05**: Our paper (PUZZLE) was accepted to **USENIX ATC'24**, congratulations to Kinman. 🎉
 - **2024.04**: Our paper (PerFlow 2.0) was accepted to **IEEE TPDS**, congratulations to myself. 🎉

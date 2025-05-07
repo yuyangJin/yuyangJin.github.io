@@ -15,11 +15,11 @@ main:
   - title: "Publications"
     url: "/publication"
 
-  - title: "Open-Sourced Software"
+  - title: "Open Source Software"
     url: "https://github.com/yuyangJin"
 
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
+  - title: "无问西东"
+    url: "/wwxd"
 
   # - title: "Internships"
   #   url: "/#-internships"
