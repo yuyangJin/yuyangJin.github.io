@@ -6,7 +6,7 @@ author_profile: false
 
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">《篮球爱好者的初心》</div><img src='images/basketball.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">《篮球爱好者的初心》</div><img src='wwxd/images/basketball.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 # 《篮球爱好者的初心》
@@ -46,7 +46,7 @@ author_profile: false
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《颐和园游记》</div><img src='images/yhy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">《颐和园游记》</div><img src='wwxd/images/yhy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 # 《颐和园游记》
