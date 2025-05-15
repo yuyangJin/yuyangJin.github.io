@@ -4,6 +4,28 @@ permalink: /wwxd
 author_profile: false
 ---
 
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">《ASC25》</div><img src='wwxd/images/asc25.JPG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+# 《ASC25》
+
+**2025.05.15**
+
+ASC25在青海大学圆满闭幕，高原上组织赛事非常有挑战，非常辛苦！
+
+首先祝贺上交超算队获得总冠军！用C++重写AlphaFold3印象深刻。
+
+清华超算队队员们能力很强，也非常努力，获得了HPL和RNA两道赛题的全场第一，祝贺！但由于我第一次现场指导ASC经验不足，总成绩排名第5。
+
+这次比赛最大的感受是：
+🔥HPC is gaining increasing attention. 🔥
+
+在几乎相同甚至持续增长的比赛投入下，过去清华超算队屡屡夺冠，而如今想在ASC夺冠已是非常有挑战的事，但这正意味着一件更重要的事正在发生---HPC在国内越来越受重视，更多的人正在投身HPC！ASC促进交流的意义已远远超过比赛本身！
+
+</div>
+</div>
+
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">《篮球爱好者的初心》</div><img src='wwxd/images/basketball.png' alt="sym" width="100%"></div></div>
