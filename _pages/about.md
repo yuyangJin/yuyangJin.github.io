@@ -31,7 +31,7 @@ redirect_from:
 # Biography
 
 I am an Assistant Researcher in the Department of Computer Science and Technology of Tsinghua University.
-I received Ph.D degree supervision of [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
+I received Ph.D degree under the supervision of [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
 
 My research interests include high performance computing, performance tools, parallel computing, and distributed systems.
 My recent research investigates performance tools for large-scale parallel applications, performance tools for LLM systems.
@@ -42,6 +42,7 @@ I currently serve as executive committee member of CCF TCHPC, as well as reviewe
 
 I co-advise Tsinghua Student Cluster Team with Dr. Wentao Han and Prof. Jidong Zhai. 
 The team has achieved 18 international champions in student supercomputing challenges at SC, ISC, and ASC.
+The most exciting thing is to see the students grow during training and competitions.
 I am awarded with CCF ARCH Doctoral Outstanding Dissertation Award (CCF体系结构优博), Outstanding Doctoral Dissertation Award of Tsinghua University (清华大学优博), the fellowship of China National Postdoctoral Program for Innovative Talents (博新计划A档), and ShuiMu Tsinghua Scholar Program (清华大学水木学者).
 
 金煜阳，男，工学博士，清华大学计算机系助理研究员。国家重点研发计划项目负责人。CCF高性能计算专委会执行委员。主要研究领域包括高性能计算、并行程序性能分析与优化、高性能人工智能系统。在并行计算与系统领域顶级会议和期刊SC、PPoPP、ICS、USENIX ATC、EuroSys、IEEE TPDS等发表多篇论文，出版专著2部。研究成果获IEEE TPDS 2022最佳论文Runner-up奖。主持或参与国家级项目4项、省部级项目1项。担任清华大学学生超算团队指导老师之一，指导团队3次获得世界冠军。获CCF体系结构优秀博士学位论文激励计划、清华大学优秀博士学位论文、博士后创新人才支持计划等。
