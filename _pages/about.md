@@ -53,6 +53,7 @@ I am awarded with CCF ARCH Doctoral Outstanding Dissertation Award (CCF体系结
 # 🔥 News
 - 🔥 **2025.06**: Our paper (TraceFlow) is accepted to **SC'25**, congratulations to myself. 🎉
 - 🔥 **2025.06**: Our paper (UltraAttn) is accepted to **SC'25**, congratulations to Haoyu. 🎉
+- 🔥 **2025.06**: Tsinghua Studennt Cluster Team won the **Overall Champion of ISC'25 SCC competition**, congratulations! 🎉
 - **2025.04**: Our paper (mTuner) is accepted to **USENIX ATC'25**, congratulations to Kezhao. 🎉
 - **2025.04**: Our paper (Eigen2D) was accepted to **ICS'25**, congratulations to Yongxiao. 🎉
 - **2024.12**: My monograph was published by Tsinghua University Press.
