@@ -44,14 +44,16 @@ I co-advise Tsinghua Student Cluster Team with Dr. Wentao Han and Prof. Jidong Z
 The team has achieved 18 international champions in student supercomputing challenges at SC, ISC, and ASC.
 I am awarded with CCF ARCH Doctoral Outstanding Dissertation Award (CCF体系结构优博), Outstanding Doctoral Dissertation Award of Tsinghua University (清华大学优博), the fellowship of China National Postdoctoral Program for Innovative Talents (博新计划A档), and ShuiMu Tsinghua Scholar Program (清华大学水木学者).
 
-金煜阳，男，工学博士，清华大学计算机系助理研究员。国家重点研发计划项目负责人。CCF高性能计算专委会执行委员。主要研究领域包括高性能计算、并行程序性能分析与优化、高性能人工智能系统。在并行计算与系统领域顶级会议和期刊SC、PPoPP、ICS、USENIX ATC、EuroSys、IEEE TPDS等发表多篇论文，出版专著2部。研究成果获IEEE TPDS 2022最佳论文Runner-up奖。主持或参与国家级项目4项、省部级项目1项。担任清华大学学生超算团队指导老师之一，指导团队2次获得世界冠军。获CCF体系结构优秀博士学位论文激励计划、清华大学优秀博士学位论文、博士后创新人才支持计划等。
+金煜阳，男，工学博士，清华大学计算机系助理研究员。国家重点研发计划项目负责人。CCF高性能计算专委会执行委员。主要研究领域包括高性能计算、并行程序性能分析与优化、高性能人工智能系统。在并行计算与系统领域顶级会议和期刊SC、PPoPP、ICS、USENIX ATC、EuroSys、IEEE TPDS等发表多篇论文，出版专著2部。研究成果获IEEE TPDS 2022最佳论文Runner-up奖。主持或参与国家级项目4项、省部级项目1项。担任清华大学学生超算团队指导老师之一，指导团队3次获得世界冠军。获CCF体系结构优秀博士学位论文激励计划、清华大学优秀博士学位论文、博士后创新人才支持计划等。
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- 🔥 **2025.04**: Our paper (mTuner) is accepted to **USENIX ATC'25**, congratulations to Kezhao. 🎉
-- 🔥 **2025.04**: Our paper (Eigen2D) was accepted to **ICS'25**, congratulations to Yongxiao. 🎉
+- 🔥 **2025.06**: Our paper (TraceFlow) is accepted to **SC'25**, congratulations to myself. 🎉
+- 🔥 **2025.06**: Our paper (UltraAttn) is accepted to **SC'25**, congratulations to Haoyu. 🎉
+- **2025.04**: Our paper (mTuner) is accepted to **USENIX ATC'25**, congratulations to Kezhao. 🎉
+- **2025.04**: Our paper (Eigen2D) was accepted to **ICS'25**, congratulations to Yongxiao. 🎉
 - **2024.12**: My monograph was published by Tsinghua University Press.
 - **2024.11**: Tsinghua Studennt Cluster Team won the **Overall Champion of SC'24 SCC competition**, congratulations! 🎉
 - **2024.11**: Our paper (FlashTensor) was accepted to **PPoPP'25**, congratulations to Runxin. 🎉
