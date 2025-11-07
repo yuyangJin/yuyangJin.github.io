@@ -5,6 +5,20 @@ author_profile: false
 ---
 
 <div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">《我办了一张健身卡》</div><img src='wwxd/images/sports.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+# 《今天我办了一张健身卡》
+
+**2025.11.07**
+
+最近项目组发生了一件令人惋惜的事。想了很久，今天，我终于办了一张健身卡！
+
+</div>
+</div>
+
+
+<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">《ASC25》</div><img src='wwxd/images/asc25.JPG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
