@@ -35,7 +35,7 @@ I received Ph.D degree under the supervision of [Prof. Jidong Zhai](https://pacm
 
 My research interests include high performance computing, performance tools, parallel computing, and distributed systems.
 My recent research investigates performance tools for large-scale parallel applications, performance tools for LLM systems.
-I have published in top-tier international journals and conferences, including SC, ICS, PPoPP, OSDI, ATC, EuroSys, ICPP, IEEE TPDS. 
+I have published in top-tier international journals and conferences, including SC, ICS, PPoPP, HPDC, OSDI, ATC, EuroSys, ICPP, IEEE TPDS. 
 My research received 2022 Best Paper Runner-up Award for IEEE TPDS.
 I currently serve as executive committee member of CCF TCHPC, as well as reviewers in the conferences and journals including IEEE TPDS, IPDPS, ICS, THPC, FCS, and JCST.
 
@@ -51,22 +51,24 @@ I am awarded with ACM SIGHPC China Rising Star Award, CCF ARCH Doctoral Outstand
 
 
 # 🔥 News
-- 🔥 **2026.03**：Our paper (Canary) is accepted to **OSDI'26**, congratulations to Kinman. 🎉
-- **2025.06**: Our paper (TraceFlow) is accepted to **SC'25**, congratulations to myself. 🎉
-- **2025.06**: Our paper (UltraAttn) is accepted to **SC'25**, congratulations to Haoyu. 🎉
+- 🔥 **2026.03**：Our paper (DiTango) is accepted to **HPDC'26** (CCF-A), congratulations to Yuyang. 🎉
+- 🔥 **2026.03**：Our paper (SYCL++) is accepted to **HPDC'26** (CCF-A), congratulations to Zitao. 🎉
+- 🔥 **2026.03**：Our paper (Canary) is accepted to **OSDI'26** (CCF-A), congratulations to Kinman. 🎉
+- **2025.06**: Our paper (TraceFlow) is accepted to **SC'25** (CCF-A), congratulations to myself. 🎉
+- **2025.06**: Our paper (UltraAttn) is accepted to **SC'25** (CCF-A), congratulations to Haoyu. 🎉
 - **2025.06**: Tsinghua Studennt Cluster Team won the **Overall Champion of ISC'25 SCC competition**, congratulations! 🎉
-- **2025.04**: Our paper (mTuner) is accepted to **USENIX ATC'25**, congratulations to Kezhao. 🎉
-- **2025.04**: Our paper (Eigen2D) was accepted to **ICS'25**, congratulations to Yongxiao. 🎉
-- **2024.12**: My monograph was published by Tsinghua University Press.
-- **2024.11**: Tsinghua Studennt Cluster Team won the **Overall Champion of SC'24 SCC competition**, congratulations! 🎉
-- **2024.11**: Our paper (FlashTensor) was accepted to **PPoPP'25**, congratulations to Runxin. 🎉
-- **2024.10**: Our paper (ScalAna 2.0) was accepted to **IEEE TPDS**, congratulations to myself. 🎉
-- **2024.09**: Our paper (MCPruner) was accepted to **IEEE TPDS**, congratulations to myself. 🎉
-- **2024.06**: Our paper (BoostN) was accepted to **ICPP'24**, congratulations to Haopeng. 🎉
-- **2024.05**: Tsinghua Studennt Cluster Team won the **Overall Champion of ISC'24 SCC competition**, congratulations! 🎉
-- **2024.05**: Our paper (PUZZLE) was accepted to **USENIX ATC'24**, congratulations to Kinman. 🎉
-- **2024.04**: Our paper (PerFlow 2.0) was accepted to **IEEE TPDS**, congratulations to myself. 🎉
-- **2023.12**: Our paper received **Best Paper Runner-up** for IEEE Transactions on Parallel and Distributed Systems 2022.
+- **2025.04**: Our paper (mTuner) is accepted to **USENIX ATC'25** (CCF-A), congratulations to Kezhao. 🎉
+- **2025.04**: Our paper (Eigen2D) was accepted to **ICS'25** (CCF-B), congratulations to Yongxiao. 🎉
+<!-- - **2024.12**: My monograph was published by Tsinghua University Press. -->
+<!-- - **2024.11**: Tsinghua Studennt Cluster Team won the **Overall Champion of SC'24 SCC competition**, congratulations! 🎉 -->
+<!-- - **2024.11**: Our paper (FlashTensor) was accepted to **PPoPP'25** (CCF-A), congratulations to Runxin. 🎉 -->
+<!-- - **2024.10**: Our paper (ScalAna 2.0) was accepted to **IEEE TPDS** (CCF-A), congratulations to myself. 🎉 -->
+<!-- - **2024.09**: Our paper (MCPruner) was accepted to **IEEE TPDS** (CCF-A), congratulations to myself. 🎉 -->
+<!-- - **2024.06**: Our paper (BoostN) was accepted to **ICPP'24** (CCF-B), congratulations to Haopeng. 🎉 -->
+<!-- - **2024.05**: Tsinghua Studennt Cluster Team won the **Overall Champion of ISC'24 SCC competition**, congratulations! 🎉 -->
+<!-- - **2024.05**: Our paper (PUZZLE) was accepted to **USENIX ATC'24** (CCF-A), congratulations to Kinman. 🎉 -->
+<!-- - **2024.04**: Our paper (PerFlow 2.0) was accepted to **IEEE TPDS** (CCF-A), congratulations to myself. 🎉 -->
+<!-- - **2023.12**: Our paper received **Best Paper Runner-up** for IEEE Transactions on Parallel and Distributed Systems 2022. -->
 
 # 🎖 Honors and Awards
 - ACM SIGHPC China Rising Star Award (ACM SIGHPC中国新星奖)
@@ -85,7 +87,8 @@ I am awarded with ACM SIGHPC China Rising Star Award, CCF ARCH Doctoral Outstand
 - *2013.09 - 2017.06*, Department of Computer Science and Technology, Beijing Institute of Technology, Bachelor.
 
 # 💻 Working Experience
-- *2022.07 - Now*, Department of Computer Science and Technology, Tsinghua University, Postdoc/Assistant Researcher.
+- *2022.07 - 2025.07*, Department of Computer Science and Technology, Tsinghua University, Postdoc.
+- *2025.08 - Now*, Department of Computer Science and Technology, Tsinghua University, Assistant Researcher.
 
 # 🌼 Serving
 - IPDPS'26 PC member
@@ -93,11 +96,9 @@ I am awarded with ACM SIGHPC China Rising Star Award, CCF ARCH Doctoral Outstand
 - NPC'18 Web chair 
 
 # 📝 Selected Publications 
-- [Leveraging Graph Analysis to Pinpoint Root Causes of Scalability Issues for Parallel Applications](https://ieeexplore.ieee.org/document/10734146). **IEEE TPDS**. 2025.
+- [TraceFlow: Efficient Trace Analysis for Large-Scale Parallel Applications via Interaction Pattern-Aware Trace Distribution](https://dl.acm.org/doi/10.1145/3712285.3759773). **SC**. 2025.
+- [mTuner: Accelerating Parameter-Efficient FineTuning on Multi-GPU Servers with Elastic Tensor](https://www.usenix.org/system/files/atc25-huang-kezhao.pdf). **USENIX ATC**. 2025.
 - [FlashTensor: Optimizing Tensor Programs by Leveraging Fine-grained Tensor Property](https://dl.acm.org/doi/10.1145/3710848.3710864). **PPoPP**. 2025.
-- [Research on Key Technologies of Performance Analysis and Optimization for Large-Scale Parallel Applications](http://www.tup.tsinghua.edu.cn/bookscenter/book_10214901.html). **Tsinghua University Press (清华大学出版社)**. 2024.
-- [Graph-Centric Performance Analysis for Large-Scale Parallel Applications](https://ieeexplore.ieee.org/document/10521459). **IEEE TPDS**. 2024.
-- [WiseGraph: Optimizing GNN with Joint Workload Partition of Graph and Operations](https://dl.acm.org/doi/10.1145/3627703.3650063). **EuroSys**. 2024.
 - [PUZZLE: Efficiently Aligning Large Language Models through Light-Weight Context Switch](https://www.usenix.org/system/files/atc24-lei.pdf). **USENIX ATC**. 2024.
 - [Performance Analysis of Parallel Applications for HPC](https://link.springer.com/book/10.1007/978-981-99-4366-1). **Springer Nature**. 2023.
 - [PerFlow: A Domain Specific Framework for Automatic Performance Analysis of Parallel Applications](https://dl.acm.org/doi/10.1145/3503221.3508405). **PPoPP**. 2022.
