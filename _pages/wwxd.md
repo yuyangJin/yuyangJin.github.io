@@ -5,6 +5,85 @@ author_profile: false
 ---
 
 <div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">《新晋段子手宋佳兴》</div><img src='wwxd/images/sjx.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+# 《清华超算队轶事--新晋段子手宋佳兴》
+
+**2026.04.28**
+
+宋佳兴（指叉院大二同学）加入超算队时，是一个能力很强但不擅长与人沟通的人。他甚至连使用微信和其它超算队员交流都略显费劲，一般微信通信延迟在1天-2周不等。
+
+如今，他已经可以在社交软件上给大家讲段子了（如图他讲述了用代码智能体优化赛题的趣闻），看到这一幕，我会觉得投入建设 #清华大学学生超算团队 真是挺有意义的事，毕竟，
+
+讲段子水平在未来真有可能比写代码水平重要！
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div class='paper-box-text' markdown="1">
+
+# 《laekov的实验室遗产》
+
+**2025.11.28**
+
+一个人的能量超乎想象🔥。
+
+laekov是我们实验室的毕业生，比我小三届，毕业的时候只有1篇CCF-A类论文，从论文成果上看并不算优秀的毕业生。
+
+但他的代表作FastMoE、FastDecode相信很多做AI系统的工作者都听说或使用过，在当时被很多知名公司的并行训练系统在生产线调用，尽管这两个开源系统背后并没有论文。
+
+翟明书是我们实验室的四年级博士生，他大四开始跟着laekov维护并优化FastMoE开源系统。这些年他总是在琢磨做开源系统，尽管他现在也只有1篇CCF-A类论文。显然，他没有意识到他的偶像是laekov。
+
+我们组有很多这样的偶像，他们在组里的遗产不只是一本不厚不薄的毕业论文。
+</div>
+
+
+
+
+
+
+
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">《与Felix Wolf教授合作》</div><img src='wwxd/images/felix.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+# 《与Felix Wolf教授合作》
+
+**2025.11.19**
+
+Felix Wolf是德国达姆斯塔特工业大学的教授，也是世界高性能计算软件工具联盟VI-HPS的唯一主席，他过去20多年都在研究性能建模与性能工具，是我的小同行。我猜测他这一辈子都会研究这个方向。
+
+今年有幸与他合作写了一篇性能工具的工作，中稿了SC25，我们相约在SC25见面。
+
+但很遗憾的是，因为各种原因我无法出国前往SC25现场，于是我委托他帮忙演讲，介绍我们的工作。为了更好地展示我们的工作，他与我一共进行了32次邮件交流，反反复复修改PPT、演讲稿并准备提问环节，态度非常认真。
+
+Felix Wolf教授以身作则 — 认真做事在任何时候都不会错，与各位共勉。
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">《我办了一张健身卡》</div><img src='wwxd/images/sports.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
