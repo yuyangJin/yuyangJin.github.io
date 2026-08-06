@@ -4,6 +4,26 @@ permalink: /wwxd
 author_profile: false
 ---
 
+<div class='paper-box-text' markdown="1">
+
+# 《父亲》
+
+**2026.08.06**
+
+今日回家抱吾儿，婴语喃喃。
+
+我最早的记忆里，父亲科研繁忙，幼儿园放学后常是最后一个来接我。我一边挖泥砂一边等待。听到父亲在校门口呼唤，我就扔下一切奔向他、抱紧他。
+
+这样回想起来，那时的他正是三十出头，英气勃发，有理想抱负。而现在的他已经退休，没什么事提得起兴趣。只觉得时间过得好快，父亲已成爷爷。哎，多希望它慢一些！
+
+如今我也到了他那时的年纪，突然真切地意识到人生也就短短数十载，而少年心气只会逐渐消逝。
+
+“爱你所爱，行你所行，听从你心，无问西东。”
+</div>
+
+
+
+
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">《新晋段子手宋佳兴》</div><img src='wwxd/images/sjx.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

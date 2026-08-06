@@ -51,7 +51,8 @@ I am awarded with ACM SIGHPC China Rising Star Award, CCF ARCH Doctoral Outstand
 
 
 # 🔥 News
-- 🔥 **2026.07**：Our paper (BGL2.0) is accepted to **SC'26** (CCF-A), congratulations to Mingshu. 🎉
+- 🔥 **2026.07** Our paper is honored with **2025 IEEE TPDS Best Paper Award**, congratulations to myself. 🎉
+- 🔥 **2026.07**：Our paper (BaGuaLu2.0) is accepted to **SC'26** (CCF-A), congratulations to Mingshu. 🎉
 - 🔥 **2026.07**：Our paper (OctoPipe) is accepted to **SC'26** (CCF-A), congratulations to Jihu. 🎉
 - 🔥 **2026.07**：Our paper (StreamTrace) is accepted to **ICPP'26** (CCF-B), congratulations to myself. 🎉
 - 🔥 **2026.03**：Our paper (DiTango) is accepted to **HPDC'26** (CCF-A), congratulations to Yuyang. 🎉
